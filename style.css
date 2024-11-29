@@ -72,7 +72,7 @@ ul li{
     height: 29px;
     width: 28px;
     border-radius: 50%;
-    background-image: url('./uncheck.png');
+    background-image: url('./img/uncheck.png');
     background-size: cover;
     background-position: center;
     top: 7px;
@@ -87,7 +87,7 @@ ul li{
     
     content: '';
     border-radius: 50%;
-    background-image: url('./images.png');
+    background-image: url('./img/images.png');
      background-size: cover;
     background-position: center;
     top: 7px;
